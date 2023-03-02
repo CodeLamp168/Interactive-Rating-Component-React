@@ -1,3 +1,3 @@
 # Interactive-Rating-Component-React
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-qx6fvp)
+[Edit on StackBlitz ⚡️](https://react-qx6fvp.stackblitz.io/)
